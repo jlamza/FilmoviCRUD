@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filmovi", "Filmovi.csproj", "{90CC9905-F0DD-43E0-9F5F-9F34B23FC7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filmovi", "Filmovi.csproj", "{90CC9905-F0DD-43E0-9F5F-9F34B23FC7CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryFilmovi", "..\ClassLibraryFilmovi\ClassLibraryFilmovi.csproj", "{1796D652-212F-45E8-A657-6EEE2DF56591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryFilmovi", "..\ClassLibraryFilmovi\ClassLibraryFilmovi.csproj", "{1796D652-212F-45E8-A657-6EEE2DF56591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
