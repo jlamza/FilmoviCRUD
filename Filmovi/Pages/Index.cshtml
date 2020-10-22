@@ -21,6 +21,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Filmovi[0].godina)
             </th>
+            <th>Opcije</th>
         </tr>
     </thead>
     <thead>
@@ -33,7 +34,10 @@
                 <td>
                     @Html.DisplayFor(modelGodine => item.godina)
                 </td>
-                
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+                    
+                </td>
             </tr>
 
 
