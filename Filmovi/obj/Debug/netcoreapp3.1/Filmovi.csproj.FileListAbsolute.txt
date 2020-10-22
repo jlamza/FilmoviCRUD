@@ -136,3 +136,4 @@ C:\Users\User\source\repos\FilmoviProjekt\Filmovi\bin\Debug\netcoreapp3.1\runtim
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Filmovi.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Filmovi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
