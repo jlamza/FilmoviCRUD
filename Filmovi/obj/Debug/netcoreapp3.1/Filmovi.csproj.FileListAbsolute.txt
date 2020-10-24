@@ -138,3 +138,8 @@ C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Filmov
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Filmovi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
 C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Razor\Pages\Delete.cshtml.g.cs
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Filmovi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\FilmoviProjekt\Filmovi\obj\Debug\netcoreapp3.1\Razor\Pages\Api.cshtml.g.cs

@@ -31,6 +31,7 @@ namespace Filmovi
                 Options.UseSqlServer(Configuration.GetConnectionString("Default"));
             });
             services.AddRazorPages();
+            services.AddControllers();
 
         }
 
@@ -58,6 +59,8 @@ namespace Filmovi
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                endpoints.MapControllers();
+                
             });
         }
     }
