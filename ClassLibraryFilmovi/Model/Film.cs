@@ -10,5 +10,6 @@ namespace ClassLibraryFilmovi.Model
         public string Ime { get; set; }
 
         public string godina { get; set; }
+        public string img { get; set; }
     }
 }

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filmovi", "Filmovi.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryFilmovi", "..\ClassLibraryFilmovi\ClassLibraryFilmovi.csproj", "{1796D652-212F-45E8-A657-6EEE2DF56591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "..\API\API.csproj", "{127B029D-8651-4D89-A3AD-DE42E25AE7A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1796D652-212F-45E8-A657-6EEE2DF56591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1796D652-212F-45E8-A657-6EEE2DF56591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1796D652-212F-45E8-A657-6EEE2DF56591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127B029D-8651-4D89-A3AD-DE42E25AE7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127B029D-8651-4D89-A3AD-DE42E25AE7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127B029D-8651-4D89-A3AD-DE42E25AE7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127B029D-8651-4D89-A3AD-DE42E25AE7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

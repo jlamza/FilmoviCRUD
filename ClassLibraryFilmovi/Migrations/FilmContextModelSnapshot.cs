@@ -31,6 +31,9 @@ namespace ClassLibraryFilmovi.Migrations
                     b.Property<string>("godina")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("img")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Film");

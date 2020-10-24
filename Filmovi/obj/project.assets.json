@@ -1674,6 +1674,22 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ClassLibraryFilmovi": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "ClassLibraryFilmovi/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -6101,6 +6117,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../API/API.csproj",
+      "msbuildProject": "../API/API.csproj"
+    },
     "ClassLibraryFilmovi/1.0.0": {
       "type": "project",
       "path": "../ClassLibraryFilmovi/ClassLibraryFilmovi.csproj",
@@ -6109,6 +6130,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "API >= 1.0.0",
       "ClassLibraryFilmovi >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.9",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.9"
@@ -6140,6 +6162,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\FilmoviProjekt\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\FilmoviProjekt\\API\\API.csproj"
+            },
             "C:\\Users\\User\\source\\repos\\FilmoviProjekt\\ClassLibraryFilmovi\\ClassLibraryFilmovi.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\FilmoviProjekt\\ClassLibraryFilmovi\\ClassLibraryFilmovi.csproj"
             }
