@@ -9,7 +9,12 @@
 *.user
 *.userosscache
 *.sln.docstates
+<<<<<<< HEAD
 .vs/Filmovi/DesignTimeBuild/.dtbcache.v2
+=======
+Filmovi/.vs/Filmovi/DesignTimeBuild/.dtbcache.v2
+*.cache
+>>>>>>> dev
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
