@@ -1,6 +1,5 @@
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\API.exe
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\API.deps.json
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
@@ -60,3 +59,4 @@ C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\runtimes\w
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\ClassLibraryFilmovi.dll
 C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\ClassLibraryFilmovi.pdb
 C:\Users\User\source\repos\FilmoviProjekt\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\User\source\repos\FilmoviProjekt\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
