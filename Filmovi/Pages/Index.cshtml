@@ -1,9 +1,10 @@
 ﻿@page
 @model IndexModel
 @{
-    
+
     ViewData["Title"] = "Home page";
 }
+
 
 <div class="text-center">
     <h1 class="display-4">Download Filmovi movies: HD smallest size</h1>
@@ -18,27 +19,34 @@
     <button class="btn btn-primary">
         <a class="text-light" asp-page="Create">Create New</a>
     </button>
-    
+
 </div>
 
 
-<div class="row">
+<div class="card-deck">
     @foreach (var item in Model.Filmovi)
     {
 
         <div class="col-sm-3 mt-5">
             <div class="card">
+
                 <img class="card-img-top" src="@item.img" alt="Card image cap">
+
                 <div class="card-body">
                     @Html.DisplayFor(modelIme => item.Ime)
 
                     @Html.DisplayFor(modelGodine => item.godina)
                 </div>
+
+
+
+
+
                 <div class="card-footer">
                     <a asp-page="/Edit" asp-route-id="@item.Id" class="card-link btn btn-primary">Edit</a>
+
                     <a asp-page="/Delete" asp-route-id="@item.Id" class="card-link btn btn-primary">Delete</a>
                 </div>
-                
             </div>
         </div>
 
